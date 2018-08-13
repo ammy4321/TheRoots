@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/nav_home"
+        android:icon="@mipmap/baseline_home_white_24dp"
+        android:id="@+id/home"/>
+
+
+    <item
+        android:id="@+id/calender"
+        android:icon="@mipmap/event_calender"
+        android:title="@string/upcoming" />
+    <item
+        android:id="@+id/eventicon"
+        android:icon="@mipmap/event_icon"
+        android:title="@string/events" />
+    <item
+        android:icon="@mipmap/round_sentiment_satisfied_alt_white_24dp"
+        android:title="My Space" />
+</menu>

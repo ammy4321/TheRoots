@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "523196980287",
+    "firebase_url": "https://theroots-8f533.firebaseio.com",
+    "project_id": "theroots-8f533",
+    "storage_bucket": "theroots-8f533.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523196980287:android:5705faed0db5e599",
+        "android_client_info": {
+          "package_name": "com.example.admin.theroots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523196980287-tjj2revm9pbkhgp9igmpt2u9dbc6lnbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.theroots",
+            "certificate_hash": "3d73be9f8be84d512eacd030f0851f7639794762"
+          }
+        },
+        {
+          "client_id": "523196980287-oog7b7o9tjehje8q93cdp17np7dnkeuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwXE88g8BgFozxUDKaJwG0RDb1eMcSSFs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523196980287-oog7b7o9tjehje8q93cdp17np7dnkeuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

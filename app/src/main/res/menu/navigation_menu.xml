@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+    <item android:id="@+id/new_account"
+        android:icon="@mipmap/sharp_person_white_24dp"
+        android:title="@string/profile"
+        />
+        <item
+            android:id="@+id/nav_tasks"
+            android:icon="@mipmap/round_sentiment_satisfied_alt_white_24dp"
+            android:title="Tasks" />
+
+    <item android:id="@+id/nav_logout"
+        android:icon="@mipmap/round_arrow_back_white_24dp"
+        android:title="@string/sign_out"
+        />
+    <item android:id="@+id/nav_about"
+        android:title="@string/about"
+        />
+</group>
+</menu>
